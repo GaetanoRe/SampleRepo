@@ -3,5 +3,6 @@
 
 int main(){
     printf("Python\n");
+    printf("Nomad\n");
     return 0;
 }
